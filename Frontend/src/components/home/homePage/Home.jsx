@@ -118,17 +118,6 @@ const Home = () => {
         </div>
       </div>
       <div className="md:mt-12 mt-6 p-2 flex flex-col w-full justify-center items-center gap-1">
-        <a
-          className="flex relative overflow-hidden px-3 py-1 border rounded-full gap-1 items-center border-zinc-500/20 shadow"
-          target="_blank"
-          href="https://github.com/Sakura-TaSky"
-        >
-          <div className="absolute -bottom-0 inset-x-0 h-[0.5px] bg-gradient-to-r from-transparent via-blue-400 to-transparent"></div>
-          <span className="text-[10px] font-medium ">
-            Built by
-            <span className="text-[12px] font-bold"> Sakura</span>
-          </span>
-        </a>
         <div className="flex items-center justify-center flex-col text-4xl md:text-5xl font-semibold">
           <h1 className="text-center tracking-tight">
             Crypto wallet overview with Token swap
