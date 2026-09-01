@@ -17,15 +17,14 @@ node_modules
 .DS_Store
 *.suo
 *.ntvs*
-*.njsproj
 *.sln
 *.sw?
 
 .env
-config/
-*Config.js
+
 
 # # Ignore dist folder
-# dist/
-# dist
-# /dist
+dist/
+dist
+/dist
+.vercel
