@@ -5,3 +5,5 @@ config
 /config
 config/
 node_modules
+.vercel
+.env*.local
